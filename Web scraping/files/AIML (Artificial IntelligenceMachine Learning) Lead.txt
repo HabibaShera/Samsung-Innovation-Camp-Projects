@@ -1,0 +1,15 @@
+title
+AI/ML (Artificial Intelligence/Machine Learning) Lead
+
+company_name
+Arrow Electronics
+
+job_description
+['Lead, mentor, and advise the ML team members.', 'Identify the most effective architectures and models to solve complex data problems.', 'Research and implement appropriate ML algorithms and tools using deep learning and artificial neural networks.', 'Designing AI/ML pipelines.', 'Extend existing ML libraries and frameworks.', 'The document, summarize and present findings to a group of peers and stakeholders across multiple projects.']
+
+job_requirments
+["Bachelor's degree in Statistics, Computer Science, or in an Engineering or Sciences discipline or related degree", 'At least 5 years experience in analytics, data science, ML Engineering', 'At least 1-2 years of experience leading, mentoring, and developing either Machine Learning, Data Science, or Analytics practitioners.', 'Experience with building and deploying a range of deep learning models into production ', 'Experience with Cloud Services - Amazon Web Services (AWS)', 'Highly proficient in ML and Deep learning algorithms with a hands-on project.', 'Strong experience working with big data tools: Hadoop, Spark, Kafka, etc.', 'Extensive Python experience required.', 'Experience with Agile tools like Jira.', 'Able to communicate technical issues with technical & non-technical stakeholders.', 'Ability to quickly prototype ideas and solve complex problems by adapting creative approaches,']
+
+location
+القاهرة القاهرة مصر
+

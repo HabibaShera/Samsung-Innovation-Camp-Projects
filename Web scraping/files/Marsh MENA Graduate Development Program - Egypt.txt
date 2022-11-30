@@ -1,0 +1,15 @@
+title
+Marsh MENA Graduate Development Program - Egypt
+
+company_name
+Marsh
+
+job_description
+['Excellent written and verbal communication skills', 'Strong computer skills with proficiency in Microsoft applications (PowerPoint, Word, Excel)', 'Strong Academic Grade', 'Has enthusiasm for developing a long-term career within the insurance industry ', 'Ability to work in teams in the spirit of collaboration, engagement and inclusion', 'Fluent in English (Arabic language is an advantage)', 'Passionate to develop a long-term career in the insurance and risk management industry', 'Outstanding analytical thinking and problem solving skills', 'Excellent verbal and written communication skills', 'Result-orientation']
+
+job_requirments
+['Embark on a journey of growth as you undergo an intensive 18 months structured learning curriculum and gain valuable work experience from exciting cross-functional job rotations', 'An opportunity to gain a regional exposure and best practices within the Insurance and Risk Management industry.', 'You will be part of a reputable and recognized brand in the insurance and risk management industry by working with and learning from industry leading experts in the field', 'Unprecedented opportunity to meaningfully impact our clients and make a difference across the world and industries']
+
+location
+القاهرة القاهرة مصر
+

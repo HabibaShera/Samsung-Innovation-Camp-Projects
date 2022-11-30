@@ -1,0 +1,15 @@
+title
+Junior Software Tester
+
+company_name
+TechLabs London
+
+job_description
+['Working in Agile Environment .', 'Planning and designing and implementing test cases .', 'Creating Testing (Scenarios) then cases on Devops', 'Create Test suites and Test Cases and defects.', 'Doing Smoke, Sanity, Retesting and Regression Testing for every new build', 'Testing web Apps and mobile Apps', 'Define Testing scope', 'Automate regression tests using Selenium', 'Doing API Testing .']
+
+job_requirments
+['1-2 years of Software testing experience.', 'Bachelor’s Degree in Computer Science, Computer Engineering, Information Technology, or a related field (or equivalent)', 'Manual testing in Agile environment and waterfall', 'Automation Testing Tools.', 'Knowledge of Devops & Jira', 'Design and develop automation scripts is a plus.', 'Good in using Selenium & Testng', 'ISTQB Certified is a plus']
+
+location
+القاهرة القاهرة مصر
+

@@ -1,0 +1,15 @@
+title
+QA Software Testing
+
+company_name
+Expleo Group
+
+job_description
+[' Co-ordinates work on multiple phases of a project and/or projects of moderate scope or possibly in more complex assignments. Is involved in hands-on testing activities. ', ' Supports and works with QA Analysts. ', ' Works on quality assurance projects using available test frameworks and tools and establishes plans for projects with on-time and on-budget project goals. ', ' Responsible for a certain test area and conditions as well as results evaluation, problem resolution and planning. ', ' Ensures compliance with testing best practices and standards. ', ' Scopes and creates quality assurance plans, data, procedures, and scripts. ', ' Scopes out and creates test coverage, designing specifications and defining conditions for given requirements. ', ' Maintains the integrity of the test environment. ', ' Interprets, reviews and reports test activities and results in accordance with project plans. ', ' Identifies test issues, reporting risks and defining regression tests for current and future projects and logs these as best practices and learning points. ', ' Understands business end-to-end processes and participates in production verification and validation. ', ' Contributes to management reporting including appropriate test metrics on planning, defects and execution. ', ' Deputises for Lead as required. ']
+
+job_requirments
+[' Bachelor’s Degree in Computer Science, Information Systems,or other related field, or equivalent work experience ', ' ISTQB Foundation ']
+
+location
+القاهرة القاهرة مصر
+

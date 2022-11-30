@@ -1,0 +1,15 @@
+title
+Senior Software Tester
+
+company_name
+Rawaj-HCM
+
+job_description
+['Prepare reports on all aspects related to the software testing carried out and reporting to the Analysts Development team.', 'Interact with the product team to understand product requirements.', 'Participate in product design reviews and provide input on requirements, product design, and potential problems.', 'Analyze test results, test data, bugs and production defects.', 'Responsible for personally contributing to test cases creation and test execution alongside managing testing team capacity.', 'Record and document results and compare to expected results.', 'Suggest functionality improvements based on usability standards.', 'Review user stories and user acceptance criteria in terms of consistency, completeness, and correctness.', 'Collaborate with software Engineers to develop effective strategies and test plans.', 'Help troubleshoot issues.', 'Work with cross-functional teams to ensure quality throughout the software development lifecycle.']
+
+job_requirments
+['Bachelor of Computer Science or any related discipline.', '5+ years of proven experience as a Quality Assurance or software Tester or similar role.', 'Experience in project management and end-to-end test process.', 'Proven experience in manual and automation testing.', 'Familiarity with Agile frameworks and regression testing is a must.', 'Experience with Redmine or similar issue tracking tools.', 'Experience with Selenium, JMeter, AppSignal or any similar test automation tools.', 'Ability to deal with code repositories, databases and troubleshoot errors in the testing environment.', 'Hands on experience with SQL, postman and any scripting language.', 'Excellent communication skills.', 'Attention to details.', 'Analytical mind and problem-solving aptitude.', 'Strong organizational skills.', 'Up-to-date knowledge of software test design and testing methodologies.', 'Experience with e-Commerce and FinTech industry is a big plus.']
+
+location
+القاهرة قسم المعادي مصر
+

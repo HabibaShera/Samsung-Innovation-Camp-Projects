@@ -1,0 +1,15 @@
+title
+Machine Learning Engineer
+
+company_name
+Tribal
+
+job_description
+['Understand DevOps and maintain machine learning models within the Data Science team and develop different production streams for them', 'Build APIs and web interfaces to better utilize Machine Learning (ML) models and internal tools', 'Research new trends in ML production/deployment technologies and build Proof of Concepts (PoC) that can potentially be the foundation of a new data science product or improving a current one', 'Optimize our current processes and propose improvements', 'Partner with other Data Scientists and Engineers to build complex products and solutions']
+
+job_requirments
+['3+ years of experience in developing software using Python, building custom modules and packages using Object Oriented programming', 'Strong Experienced with Docker and Kubernetes', 'Familiar with Data Science concepts and algorithms including Supervised and Unsupervised Learning', 'Strong understanding of Git and CI/CD ', 'Strong experience in deploying ML models in the cloud (e.g. AWS and GCP)', 'Experienced with AWS and services like EC2, ECR, EKS, Fargate, and Sagemaker', 'Experience with infrastructure as code (Cloudformation and Terraform)', 'Strong quantitative analysis skills and a data driven approach to problem solving', 'Fluent in English required', 'Agile, flexible, and responsive approach to work. ', 'Enthusiastic, positive, friendly and a great sense of humor!']
+
+location
+القاهرة القاهرة مصر
+

@@ -1,0 +1,15 @@
+title
+Mid Tester
+
+company_name
+geidea
+
+job_description
+['Work with a self-organized team to deliver shippable features.', 'Review/analyze requirements and/or user stories to identify any missing information needed to perform software testing.', 'Design and develop test cases and automation scripts.', 'Execute assigned test cases.', 'Analyze test execution results, and report any bugs or glitches clearly. ', 'Checking the quality defects.', 'Support web UI and Backend automation testing.']
+
+job_requirments
+['Liaising with Product Owners and Test Managers in sprint planning.', 'Working closely with the Scrum squads.', 'Participate in user stories and refinement sessions.', 'Prepare both manual test cases and automation test scripts.', 'Test applications and systems.']
+
+location
+القاهرة القاهرة الجديدة مصر
+

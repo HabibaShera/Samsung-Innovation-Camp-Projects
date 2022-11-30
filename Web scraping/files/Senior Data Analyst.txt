@@ -1,0 +1,15 @@
+title
+Senior Data Analyst
+
+company_name
+Floward
+
+job_description
+['Embark on exploratory data analysis to unravel insights and form a better understanding of business processes as well as to discover opportunities of growth and optimization.', 'Delivering high quality analysis, reports, and definitive dashboards using simple yet effective visualizations techniques.', 'Build, automate and maintain our ETLs using', 'Help define and track the appropriate key metrics for specific projects.', 'Design and run controlled experiments and surveys, analyze the resulting data and communicate results with other teams;', 'Support the business functions primarily in the tactical & strategic projects.']
+
+job_requirments
+['Strong experience (3+ years minimum) of writing in SQL, Python and/or R.', 'Good Experience (2+ years) with languages and tools for of data manipulation, analysis and plotting (R, R-shiny, R-markdown, Python, Pandas, Matplotlib, Bokeh, Jupyter).', 'Good knowledge (2+ years) in leveraging statistical/analytical practices to drive commercial value.', 'Good experience (2+ years) in building dashboards and reports through BI Platforms such as Tableau or Power BI.', 'Good communication skills, particularly with leadership-level, and ability to work with teams distributed across different geographies.', 'Experience with CI/CD practices and tools is a plus.', 'Experience with Git and Github is a plus.']
+
+location
+القاهرة القاهرة مصر
+

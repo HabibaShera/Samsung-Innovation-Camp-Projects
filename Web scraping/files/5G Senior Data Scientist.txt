@@ -1,0 +1,15 @@
+title
+5G Senior Data Scientist
+
+company_name
+Dell Technologies
+
+job_description
+['Identify use cases with domain experts to use ML to optimize RAN operations.', 'Research through papers to study existing solutions.', 'Search for open-source datasets for use in training models.', 'Present/demo findings & results to stakeholders with different backgrounds.', 'Communicate & pair with the team on integrating ML components into the application.', 'Communicate with other stakeholders to generate new opportunities ', 'Build an MLOPS infrastructure to prepare the AI components for the telecom apps ']
+
+job_requirments
+['7+ years of relevant experience', 'Strong Mathematical background (Calculus, Linear Algebra, Probability & Stats)', 'Programming skills (Python, Go, C++, etc.) No specific preference for languages.', 'Problem Solving Skills', 'Machine Learning (Supervised & Unsupervised learning)', 'Deep Learning knowledge', 'Data Analytics', 'MLOPS hands-on experience', 'Hands-on deep learning experience', 'Knowledge of advanced deep learning concepts (transfer learning, different architectures)', 'Experienced with Git']
+
+location
+القاهرة القاهرة مصر
+

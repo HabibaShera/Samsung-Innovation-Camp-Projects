@@ -1,0 +1,15 @@
+title
+Machine Learning & Data Analysis Graduate Intern
+
+company_name
+Si-Ware Systems
+
+job_description
+['Contribute to data analysis of NeoSpectra production statistics.', 'Build an automated dashboard interface for data analysis of NeoSpectra performance parameters from core technology level to product level, stored in a global database.', 'Detect measurement outliers and correct systematic variations using machine learning techniques.', 'Support creating an automated testing software for core technology components.', 'Create smart image processing screening software for NeoSpectra components.', 'Support in studying system-level variations effects on NeoSpectra applications using chemometric methods.', 'Contribute in building an automated chemometric-based data analysis platform for NeoSpectra products.']
+
+job_requirments
+['\n\n            مستوى الأقدمية\n          \n\n            مستوى المبتدئين\n          \n', '\n\n          نوع التوظيف\n        \n\n          فترة تدريب\n        \n', '\n\n            المهام الوظيفية\n          \n\n            الهندسة\n          \n', '\n\n            المجالات\n          \n\n          الهندسة المدنية\n          \n']
+
+location
+القاهرة القاهرة مصر
+

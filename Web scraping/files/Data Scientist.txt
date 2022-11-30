@@ -1,0 +1,15 @@
+title
+Data Scientist
+
+company_name
+Teradata
+
+job_description
+['Highly self-motivated', 'Independent', 'Keen on learning and continuous self-development', 'Challengers of assumptions and status quo']
+
+job_requirments
+['Perform all the phases of a data science project business understanding, data understanding and preparation, exploratory analysis, modeling, model evaluation, communicating results and business value of a model to the client and finally deploying your data product.', 'Follow team development processes.', 'Based on the nature of the project and the available tools, quickly learn and adapt to different technologies and tools than the ones you are used to.']
+
+location
+القاهرة القاهرة مصر
+

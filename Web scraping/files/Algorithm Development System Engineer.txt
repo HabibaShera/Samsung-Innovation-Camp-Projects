@@ -1,0 +1,15 @@
+title
+Algorithm Development System Engineer
+
+company_name
+VOYɅNCE
+
+job_description
+['Possess a BS in engineering, mathematics, applied mathematics, physics, or related technical field.', 'Have relevant experience applying signal processing techniques to time series data', 'Strong Mathematical background.', 'Are proficient in MATLAB, Python, or similar programming languages for algorithm development or data analysis.', 'Demonstrate strong communication and interpersonal skills. Are comfortable writing and presenting about technical topics to peers, managers, and government sponsors.']
+
+job_requirments
+['Possess a MS or PhD in engineering, mathematics, applied mathematics, physics, or related technical field.', 'Have experience applying signal processing, machine learning, or artificial intelligence techniques to Medical images.', 'Have experience with advanced signal processing techniques.', 'Have experience in technical task leadership.', 'Have exceptional troubleshooting, debugging, and problem-solving skills.', 'Self-starter mentality with excellent communication skills.', 'Pay attention to details.']
+
+location
+القاهرة القاهرة الجديدة مصر
+

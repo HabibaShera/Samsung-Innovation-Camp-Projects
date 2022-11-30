@@ -1,0 +1,15 @@
+title
+Python Developer For sports statistics 
+
+company_name
+Fekra Egypt
+
+job_description
+['Hands-on experience in Python, especially in the development of ETL pipelines and/or APIs', 'Deep knowledge of SQL Server, or another relational database, and strong data modeling skills', 'Willingness to dig into legacy code in order to troubleshoot issues and understand requirements for the new things we build', '5+ years of professional experience working in a modern product/engineering-focused organization', 'Communication skills that allow one to partner directly with products, internal customers, and clients to determine requirements, trade-offs, and goals', 'Experience leading complicated data migrations', 'Experience deploying apps on Azure', 'A fan’s knowledge of sports statistics in one or more major US sports (basketball, baseball, football, hockey)', 'Background working in B2B environments will be a plus']
+
+job_requirments
+['Modernize our data ecosystem and establish patterns for data ingestion and syndication', 'Work with engineering, product, and company leadership to ensure that our approach is in line with broader company goals', 'Collaborate directly with our research team to understand their needs so you can propose solutions that improve data workflows']
+
+location
+مصر
+

@@ -1,0 +1,15 @@
+title
+Head of Data Analytics - Cairo - Egypt
+
+company_name
+Vezeeta
+
+job_description
+['Lead Data Analytics team across different markets focusing on APP&Web Analytics.', 'Mining and analyzing event-level campaign data to provide actionable insights into the drivers of incremental ROI', 'Creating an effective segmentation strategy for our audience', 'Measurement and performance reporting of all campaigns running through various channels', 'Use A/B testing and a variety of alternative methodologies to measure marketing effectiveness, attribution, and ROI', 'Advocate and communicate ways to optimize the performance of our campaigns working closely with different internal teams and departments', 'Providing ad hoc analytical support to key stakeholders, e.g. performance marketing, web analytics, product growth', 'Extract/generate periodic customized/standard-reports as required', 'Synthesize information from various sources / partners, e.g. CRM, Google Analytics 360, MixPanel, to prepare reports as required.', 'Prepare and analyze various reports to monitor the effectiveness of targeted direct marketing programs vs website performance.', 'Analysing online user behaviour, conversion data and customer journeys, funnel analysis and multi-channel attribution', ' Performing analyse on conversion optimisation and develop conversion optimisation strategies based on solid analytical data.']
+
+job_requirments
+['A postgraduate degree in a quantitative field (e.g. Business Administration, Economics, Finance, Econometrics, Statistics, Mathematics, or Information Systems)', 'Understand all components of experimental design from sampling to measuring the effect(s), hands-on experience with A/B testing in a commercial environment a plus', '8+ years of experience with statistical analyses and APP Analytics. ', 'Large experience managing Web Analytics & App Analytics team.', 'Ability to prioritize work according to business objectives, understanding the balance between effort and impact', 'A strong eye for detail and an inquisitive mind, naturally being driven to continuously finding ways to improve the department’s and your own performance', 'A real team player with a solutions-focus and entrepreneurial spirit', 'Exceptional communication skills in spoken and written English', 'Excellent organizational skills with the ability to manage multiple, competing for priorities simultaneously, and deliver results under tight deadlines', 'Professional experience in the digital media landscape is a plus', 'Excellent knowledge and understanding of digital marketing reporting technologies and processes.']
+
+location
+القاهرة القاهرة مصر
+

@@ -1,0 +1,15 @@
+title
+AI Engineer
+
+company_name
+PaxeraHealth
+
+job_description
+['Develops required machine learning models or prototype applications, applying formulated AI recipes and verifying the problem/solution fit.', 'Understands the challenges in medical imaging and using state of the art solutions in AI and DL.', 'Participates in building new experiences, improves existing products, ensures quality assurance test designs and contributes to test systems architecture discussions.', 'Works alongside leading innovators in the field of deep learning and health care, plays a critical role in algorithm development.', 'Analyzes and evaluates data and builds deep networks to detect or predict features, while effectively balancing quality, availability, timeliness and cost factors.']
+
+job_requirments
+['2-3 years of AI/ML experience with a degree in a quantitative fields like Computer Science, data science, Engineering or related field required, with a significant focus on deep learning.', 'BA/BS degree in computer science or related discipline is required, MS degree is preferred.', 'Good command of the English language required (spoken and written).']
+
+location
+الجيزة أكتوبر 6 مصر
+

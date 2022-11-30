@@ -1,0 +1,15 @@
+title
+Software Test Engineer
+
+company_name
+PaxeraHealth
+
+job_description
+['Develop and implement instances of manual tests and automation test scripts.', 'Perform all test activities, including error reporting and retest, root cause analysis, regression test and acceptance test.', 'Review job specifications and participate in the product design process.', 'Review product requirements with product managers and developers for consistency and accuracy and to define test cases and acceptance criteria', 'Estimate, prioritize and plan test activities.', 'Create status reports and summarize test progress in project team meetings.', 'Monitor junior team members and work with team leadership to develop their technical and personal skills.', 'Implement, track and report on key metrics to ensure full coverage of functional and non-functional requirements.', 'Continuously improving the quality, testing process.']
+
+job_requirments
+['Experience: Minimum 2-4 years of experience', 'Education: Computer Science or a related discipline', 'Certification(s): ISTQB certificate is a must.', 'Special Course(s): Software test automation course.', 'TECHNICAL SKILLS: Good knowledge of SDLC, SQL, IIS,', "Ability to detect weaknesses and work on developing own and others' skills.", 'Excellent communication skills; ability to effectively communicate and present across multiple business functions', 'High attention to details.', 'Strong analytical and troubleshooting skills.', 'Experience working in an agile environment.']
+
+location
+الجيزة قسم ثان 6 اكتوبر مصر
+

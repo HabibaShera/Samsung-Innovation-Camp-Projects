@@ -1,0 +1,15 @@
+title
+corporate strategy business analyst 
+
+company_name
+Telecom Egypt
+
+job_description
+['To have a degree in Business Administration, Computer Science, Information Technology, Information Management, Economics, or Statistics, or in a related field.', 'Master’s degree in Business Administration', 'Fluent English', '3-7 experience in the same field , communications experience would be preferred. ']
+
+job_requirments
+['Relevant experience in strategy, corporate development, business development, corporate strategic planning, management consulting, or related fields, 5-10 years cumulatively', 'S/he must possess advanced knowledge of data management. S/he also require a proven history of implementing and executing business ideas', 'Support management team in delivering the 3-year Strategic Action Plan, Annual plan, and Monthly Rolling Forecasts. As well as delivering all related performance variance analysis (Monthly Performance Reviews).', 'Strong Knowledge of retail and wholesale services in Egyptian telecommunication market from the business perspective.', 'Ability to gather and analyze data through primary and/or secondary research, extract best practices to build a scalable robust framework and use the strategic thinking to inform go-to-market decisions.', 'Ability to build and maintain a portfolio of resources, economic/data models and tools to carry out Business Analysis and Market Research studies on different market or customer segments and granularities.', 'Ability to present new business ideas, insights and recommendations to stakeholders.', 'Ability to synthesis the research into narratives with tangible and quantified business recommendations and go-to-market strategies, and track the implementation of these recommendations to maximize the impact to the business.', 'Strong written and verbal communication skills', 'Strong quantitative and analytical skills, with excellent problem-solving abilities.', 'Advanced Excel user or familiarity with other BI tools']
+
+location
+القاهرة مصر
+

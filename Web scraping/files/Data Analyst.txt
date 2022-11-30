@@ -1,0 +1,15 @@
+title
+Data Analyst
+
+company_name
+Koinz
+
+job_description
+['Act as the first point of contact to answer all business data queries.', 'Develop effective reporting solutions by utilizing engineering best practices and using various BI tools.', 'Participate in continuous improvement of these reporting solutions.', 'Drive and support your designated business unit by converting complex data and findings into understandable tables, graphs, and written reports.', 'Present appropriate analysis and commentary to technical and non-technical audiences.', 'Gain subject matter expertise and help define appropriate key metrics for the business unit and discover untapped areas for business improvement.', 'Provide concrete data-driven insights.', 'Test and communicate new features to users.', 'Run regular data integrity audits.', 'Devise and evaluate methods for collecting data, such as surveys, questionnaires, and opinion polls.', 'Gather data about consumers, competitors, and market conditions.']
+
+job_requirments
+['Hold a university degree in Computer Engineering, Computer Science, or equivalent.', 'Have 1-3 years of experience in a related field.', 'Experience in business intelligence and visualization tools creating management dashboards.', 'Experience in writing SQL queries against large amounts of data and Tableau.']
+
+location
+القاهرة مصر
+

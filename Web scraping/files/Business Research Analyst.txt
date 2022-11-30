@@ -1,0 +1,15 @@
+title
+Business Research Analyst
+
+company_name
+Infomineo
+
+job_description
+['Analyze research requests and define the best approach to successfully complete them', 'Gather data, verify it for accuracy, and package it in a structured and easily digestible manner', 'Assess existing research sources and data collection strategies, while coming up with suggestions when possible', 'Collaborate with clients and managers on the status of your work', 'Use your creativity and expertise to support Infomineo’s internal development projects']
+
+job_requirments
+['You have the ability to analyze a problem, ask relevant questions, and think outside-of-the-box', 'You have past experience in or a love for research, consulting or data analysis', 'Preferably, you are someone with 1-2 years of work experience', 'You hold a Bachelors or Masters degree in Business, Economics, or similar field', 'You are at ease when working with figures and concepts that include modeling or correlation analysis', 'You are a creative self-starter that appreciates working in an entrepreneurial environment', 'You enjoy collaborating with people and working in teams', 'You are fully proficient in English and Arabic']
+
+location
+القاهرة القاهرة مصر
+

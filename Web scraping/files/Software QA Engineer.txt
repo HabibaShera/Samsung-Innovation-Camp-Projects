@@ -1,0 +1,15 @@
+title
+Software QA Engineer
+
+company_name
+Siemens
+
+job_description
+['3+ years of experience in Quality & Test Automation roles', 'B.Sc. in Computer Science, Computer Engineering, or a related technical field.', 'Very good Experience in API testing & Selenium', 'Experience with the ROBOT automation framework', 'Very good programming skills (Object oriented programming) and scripting skills (Python, bash, etc.)', 'Linux Experience is a must with proven hands-on experience in different distros', 'Experience with developing test cases for different Linux based platforms', 'Experience with development, building, testing and continuous integration tools, for example, Jenkins.', 'Experience with developing automated test cases and working with an automated test framework', 'Experience with Agile Software Development methodology & DevOps lifecycle', 'Familiar with Agile Software development methodology, practices, and tools', 'Excellent verbal and written communication skills', 'Be able to demonstrate a deep understanding of modern software quality assurance methodologies and best of class industry practices.']
+
+job_requirments
+['Design, Develop and execute automation test plan objectives prioritizing quality', 'Work with development team to strategize testing, plan release activities and deliverables', 'Build and/or maintain test automation architecture, designs and implementations', 'Be a knowledge expert on automation infrastructure, test orchestration and execution', 'Analyze automated test results, provide continuous status, and defect reporting', 'Participate in code reviews and enforce code quality standards', 'Engage with the entire Engineering team to assist in development and testing objectives', 'Developing and maintaining suites of automated tests ranging from low-level integration tests to system-wide functional regression testing.', 'Identifying, diagnosing, reporting, and assisting developers in resolving defects.', 'Improving product requirements and specifications, providing a testing perspective.', 'Writing and maintaining test plans and test cases for new and existing features.', 'Ability to work successfully as part of a team, sense of urgency, attention to details and quality, good team player. Strong motivation to learn new things and embrace change.']
+
+location
+القاهرة قسم ثان القاهرة الجديدة مصر
+

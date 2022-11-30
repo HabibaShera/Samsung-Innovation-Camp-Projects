@@ -1,0 +1,15 @@
+title
+Senior Software Testing Engineer
+
+company_name
+Foodics
+
+job_description
+['Work with software developers and project support teams, test current products, identifying deficiencies, and suggest solutions to identified product problems', 'Investigate product quality in order to make improvements to achieve better customer satisfaction', 'Regularly review testing documentation and identify key KPIs for product quality, record and document results and compare to expected results.', 'Estimate, prioritize, plan and coordinate testing activities', 'Design, execute and maintain test casesand report issues through bug-tracking system', 'Design and execute test cases and test scripts on test management tools, ', 'Perform compatibility testing on the software', 'Test in different environments including web and mobile and run manual and automated tests', 'Work towards departmental and project deadlines', 'Provide objective feedback to software development project team and communicate findings to technical and non-technical colleagues']
+
+job_requirments
+['Bachelor’s degree in Computer Science, Product Management or relevant field', '4+ years of recent experience of relevant work', 'ISTQB certification is a must', 'Experience in manual testing (Mobile and Web)', 'Experience in automation testing (Mobile and Web)', 'Experience with bug tracking tools (JIRA, TFS, etc...)', 'Experience in Agile Teams', 'Deep understanding of APIs, Webservices, HTTP protocols.', 'Solid work experience in Webservices testing', 'Excellent command of the English language', 'Previous working experience involving agile Scrum', 'Nice to have experience in performance testing , security testing']
+
+location
+القاهرة القاهرة مصر
+

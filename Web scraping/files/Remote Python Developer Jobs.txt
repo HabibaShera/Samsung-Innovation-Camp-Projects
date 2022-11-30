@@ -1,0 +1,15 @@
+title
+Remote Python Developer Jobs
+
+company_name
+Turing.com
+
+job_description
+['Lead technical discussions among software engineers ', 'Work across teams to design scalable, flexible to cater for multiple use cases and scenarios', 'Review existing applications and optimize accordingly', 'Design and implement reliable, low-latency, and highly performant applications ', 'Collaborate with other developers and engineers to resolve errors and fix bugs']
+
+job_requirments
+['Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)', 'At least 3+ years of relevant experience as a software developer', 'Extensive experience working with Python and related technologies', 'Nice to have some knowledge of other object-oriented languages', 'Familiarity with HTML, CSS, and AWS environment is desirable', 'Ability to triage problems, prioritize accordingly, and propose a resolution', 'Ability to work independently, raise issues and take corrective action']
+
+location
+مصر
+

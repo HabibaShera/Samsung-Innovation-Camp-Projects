@@ -1,0 +1,15 @@
+title
+Software Quality Assurance Tester
+
+company_name
+Nrsen Trading
+
+job_description
+['+2 years of experience as a Software Tester or similar role.', 'Up-to-date knowledge of software test design and testing methodologies.', 'Working knowledge of programming.', 'Web Application Testing.', 'Mobile Applications Testing.', 'Excellent communication and critical thinking skills.', 'Good organizational skills and detail-oriented mindset.']
+
+job_requirments
+['Design and develop test cases for software tools and websites to verify product functionality according to user requirements.', 'Write clear and concise bug reports and scenarios to ensure clear communication with the software developer.', 'Approve updates to the software tools and websites while ensuring product efficiency.', 'Maintain and manage manual and automated scripts and test databases.', 'Write complex SQL queries for data retrieval.', 'Test software releases by executing assigned tests (manual and/or automated).\xa0', 'Test web services and APIs.', 'Support the team with testing tasks as required.', 'Report overall project status and generate statistics.']
+
+location
+القاهرة مصر
+

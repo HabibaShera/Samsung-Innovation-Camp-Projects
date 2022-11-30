@@ -1,0 +1,15 @@
+title
+Senior Quality Assurance Engineer
+
+company_name
+Majid Al Futtaim
+
+job_description
+['Participate in requirement reviews in order to write and help others write test cases', 'Create test cases for black/white box testing. Define test strategies based on software development plans', 'Perform acceptance test of user stories on a day-to-day basis', 'Carry out exploratory testing within an agile development environment.', 'Perform end-to-end tests in relation to larger releases with external stakeholders', 'Drive the squad’s test strategy and test efforts, e.g. taking initiative to automate where possible and coaching others', 'Analyse reported issues, verify and define them in the bug’s backlog', 'Reporting and continuously monitor the quality of work performed while maintaining all documentation', 'Participate in the continuous improvement if test processes and methodologies']
+
+job_requirments
+['Own the process during test periods where functionality is tested across several squads and departments', 'Be an active participant in grooming and planning, to ensure that acceptance criteria are testable']
+
+location
+القاهرة مصر
+

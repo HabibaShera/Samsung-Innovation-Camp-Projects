@@ -1,0 +1,15 @@
+title
+Software Testing Engineer
+
+company_name
+Thales
+
+job_description
+['Using the software as intended to analyze its functional properties.', 'Validating software with client specs.', 'Designing and write test procedures to evaluate each software component/equipment.', 'Creating test reports.', 'Perform system acceptance tests with the client.', 'Record all client comments on ticketing system and its follow up until fix.']
+
+job_requirments
+['Bachelor’s degree in computer science, software engineering, or similar field.', '+2 year of proven work experience as a software test engineer.', 'Experience working with popular operating systems including Windows and Linux.', 'Experience working with different database engines (Oracle, SQL server).', 'Strong attention to detail.', 'Ability to perform detailed production use case analysis across all the system and provide the related reports.', 'Ability to design and write software testing procedures.', 'Good knowledge of TFS tool is a plus.', 'Strong command of English language, French is a plus.']
+
+location
+القاهرة القاهرة مصر
+

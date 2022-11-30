@@ -1,0 +1,15 @@
+title
+Software Manual Testing Engineer
+
+company_name
+Khazna
+
+job_description
+['Review requirements documents in terms of consistency, completeness, and correctness', 'Create, design, and execute test plans, high level scenarios, requirements traceability matrix and test cases for the products, while documenting all needed steps to verify and explain the reported results', 'Test and validate solution against user story and technical story acceptance criteria, leveraging automation where possible', 'Perform functional and UI testing for new or modified features based on quality and usability standards', 'Prepare test summary report for the deliverable features (test coverage & app confidence)', 'Identify and track bugs throughout testing life cycle ', 'Perform non-functional testing over the product (performance, reliability, stress, and load testing)']
+
+job_requirments
+['Bachelor degree in computer engineering, computer science, or similar', '2-3 years of experience in software web and mobile applications testing', 'Thorough understanding of software testing methodologies, QA tools and Agile principles', 'Experience in black and white box testing methodologies and best practices', 'Experience in non-functional testing (performance, stress, and load)', 'Knowledge in Agile methodologies (preferably Scrum)', 'Experience with one or more ALM systems (preferably JIRA)', 'Good problem solving and research skills', 'Good understanding of the full web and mobile stack', 'Debugging and tracing skills', 'Proven ability to manage and prioritize multiple, diverse projects simultaneously', 'ISTQB Foundation Level is a must', 'Knowledge of Test management tools (Zephyr) is a plus']
+
+location
+القاهرة مصر
+

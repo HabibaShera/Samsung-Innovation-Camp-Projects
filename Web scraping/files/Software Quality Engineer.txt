@@ -1,0 +1,15 @@
+title
+Software Quality Engineer
+
+company_name
+MVP Solutions
+
+job_description
+['Prepare, review, and participate in test planning and provide estimation for testing activities', 'Designs testing scenarios and test cases that will demonstrate conformance to all functional and non-functional requirements, relative to the test level, as defined in business or technical specifications.', 'Review stories’ acceptance criteria and business requirements till they are ready for the dev team.', 'Creates & manages bug reports and communicates with the team.', 'Participates in a cross-functional team working in a highly dynamic agile environment.']
+
+job_requirments
+['University degree in computer science, engineering, or any related field', '1 to 4 years of experience as a Software Quality/Testing Engineer.', 'Strong knowledge of software QC methodologies, tools, and processes.', 'Demonstrated passion for learning new technologies.', 'Strong consistency and attention to detail.', 'Strong interpersonal skills with a proven ability to collaborate.', 'Excellent written and verbal communication skills.', 'Experience in API testing using postman and swagger.', 'Experience in Mobile testing.', 'Experience in Test Automation tools and frameworks (Selenium, Appium, Rest Assured).', 'Experience in performance testing using (JMeter and BlazeMeter) is a plus.', 'ISTQB-FL is preferred ']
+
+location
+القاهرة القاهرة مصر
+

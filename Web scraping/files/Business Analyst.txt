@@ -1,0 +1,15 @@
+title
+Business Analyst
+
+company_name
+Zoho
+
+job_description
+['Define and plan project milestones, phases and different elements involved in the project along with the principal consultant', 'Drive and challenge the presumptions of delivery teams on how they will successfully execute their plans', 'Ensure Customer Satisfaction through quality deliverable on time']
+
+job_requirments
+['\n\n            مستوى الأقدمية\n          \n\n            غير مطبق\n          \n', '\n\n          نوع التوظيف\n        \n\n          دوام كامل\n        \n', '\n\n            المهام الوظيفية\n          \n\n            الأبحاث، محلل، و تكنولوجيا المعلومات\n          \n', '\n\n            المجالات\n          \n\n          تطوير البرامج\n          \n']
+
+location
+القاهرة مصر
+

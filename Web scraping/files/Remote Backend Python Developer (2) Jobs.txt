@@ -1,0 +1,15 @@
+title
+Remote Backend Python Developer (2) Jobs
+
+company_name
+Turing.com
+
+job_description
+['Understand and follow standardized software engineering processes to design, develop, document, review, test, analyze, and release code', 'Collaborate with cross-functional teams to deliver and maintain a high-quality product', 'Write high-quality code with good test coverage using modern techniques and frameworks', 'Build creative software solutions', 'Keep up to date with cutting-edge technologies']
+
+job_requirments
+['Bachelor’s/Master’s degree in Computer Science (or equivalent experience)', 'Must have a strong background in Data Science and/or Machine Learning', '4+ years of experience in Python', 'Working experience with AWS and Django', 'Knowledge of MongoDB, MYSQL, and GCP is nice to have', 'Must be skilled at Data Engineering and all related technologies and frameworks', 'Must be skilled working with Python ML packages and frameworks (PyTorch, sci-kit-learn, Keras, TensorFlow)', 'Experience developing and implementing end-to-end NLP and Computer Vision models is nice to have', 'Prior experience deploying production-level ML code and models on services or frameworks (SageMaker, Heroku, Flask)', 'Excellent communication and interpersonal skills']
+
+location
+مصر
+

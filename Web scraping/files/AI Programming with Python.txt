@@ -1,0 +1,15 @@
+title
+AI Programming with Python
+
+company_name
+Udacity
+
+job_description
+['Proficient in English Language. ', 'Technical competence: Python Development, AI neural networks, deep learning, and PyTorch, upyter Notebooks, NumPy, Anaconda, pandas, and Matplotlib, Linear algebra for AI success: vectors, linear transformations, and matrices, Linear algebra behind neural networks, Calculus - plotting, derivatives, and the chain rule', '2+ years of working experience related to the above skillsets.', 'Graduate from AI Programming with Python Nanodegree Program is a added plus', 'Experience teaching technical concepts and public speaking', 'Strong interpersonal skills and confidence to lead a group of students', 'Students-oriented mindset and focus on understanding their problems', 'Innovative approach and proactivity with students that need help', 'Positive character, trusted by the students, creating emotional ties in the group', 'Existing tech network and experience in technical conversations & discussions', 'Ability to speak and write in English fluently', 'Flexibility at their current job to take this challenge as a part-time, external contractor']
+
+job_requirments
+['Managing weekly Connect sessions with students according to Udacity guidelines', 'Creating the Udacity Connect session agenda & notes', 'Coordinating between the students and the Udacity Connect team', 'Reporting to Udacity the weekly overall attendance status of students & observations about each session', 'Being present at every Connect session over Zoom, helping students introduce themselves, organizing students in groups and keeping track of time', 'Explaining concepts of the Nanodegree program to your group of students when needed', 'Solving questions raised by students during the Connect session', "Reporting student's attendance and progress to the Mentor's dashboard", 'Communicating with students on Slack', 'Weekly check-in with all students on their progress']
+
+location
+القاهرة مصر
+

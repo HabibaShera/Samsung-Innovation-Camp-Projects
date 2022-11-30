@@ -1,0 +1,15 @@
+title
+Software Business Analyst
+
+company_name
+PaxeraHealth
+
+job_description
+['Evaluating business processes, anticipating requirements, uncovering areas for improvement, and developing and implementing solutions.', 'Conducting meetings and presentations to share ideas and findings.', 'Gathering critical information from meetings with various stakeholders and producing useful reports.', 'Construct workflow charts and diagrams; studying system capabilities; writing specifications.', 'Improve systems by studying current practices; designing modifications.', 'Define project requirements by identifying project milestones, phases and elements.', 'Maintain user confidence and protect operations by keeping information confidential.', 'Prepare technical reports by collecting, analyzing and summarizing information and trends.', 'Perform daily reviews and analyses of current processes using operational metrics and reports']
+
+job_requirments
+['Sc. Biomedical Engineering/ Computer Science, preferably in a computing-related discipline.', '3-5 years’ experience in the Business Analyst field.', 'Excellent documentation skills.', 'Competency in Microsoft applications including Word, Excel, and Outlook.', 'Detail-oriented, analytical and inquisitive.', 'Familiar with the Microsoft team foundation server.', 'Ability to impact operations and effect change without being confrontational', 'Extremely organized with strong time-management skills', 'Superior attention to detail and outstanding organizational skills.', 'A history of leading and supporting successful projects.', 'Excellent communication skills']
+
+location
+الجيزة قسم ثان 6 اكتوبر مصر
+

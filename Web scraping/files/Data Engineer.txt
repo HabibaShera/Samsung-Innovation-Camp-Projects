@@ -1,0 +1,15 @@
+title
+Data Engineer
+
+company_name
+Fugro
+
+job_description
+['Possess a Bachelor’s Degrees Civil Engineering, or Architecture Engineering, Geomatics, or equivalent.', 'From 1-2 years of work experience in ArcGIS experience, fresh gradates are also welcomed, through industry or university coursework related to geology and engineering.', 'Completion of a GIS Certificate Program preferred.', 'Knowledge of AutoCAD, SQL, VB, Python Scripting preferred.', 'Relational Database Management system administration and database design skills preferred.', 'Proficient user of MS Office Suite; advanced skill level in ArcGIS, Global Mapper, etc.; knowledge of Graphic design software (such as CorelDraw, Adobe, etc.) preferred. ']
+
+job_requirments
+['\n\n            مستوى الأقدمية\n          \n\n            مستوى المبتدئين\n          \n', '\n\n          نوع التوظيف\n        \n\n          دوام كامل\n        \n', '\n\n            المهام الوظيفية\n          \n\n            تكنولوجيا المعلومات\n          \n', '\n\n            المجالات\n          \n\n          الهندسة المدنية\n          \n']
+
+location
+القاهرة القاهرة مصر
+

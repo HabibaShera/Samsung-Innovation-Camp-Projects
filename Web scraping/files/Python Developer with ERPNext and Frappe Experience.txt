@@ -1,0 +1,15 @@
+title
+Python Developer with ERPNext and Frappe Experience
+
+company_name
+Idea ICT
+
+job_description
+['Python senior developer of experience with #odoo #erpnext', 'Job details:', 'ERPNext experience is a must', 'Coordinating with development team to determine application requirements.', 'Writing scalable code using Python programming language.', 'Testing and debugging applications.', 'Developing back-end components.', 'Integrating user-facing elements using server-side logic.', 'Assessing and prioritizing client feature requests.', 'Integrating data storage solutions.', 'Coordinating with front-end developers.', 'Reprogramming existing databases to improve functionality.']
+
+job_requirments
+['Full time, ', '5 working days and 8 Hours Daily Including', 'Working from the office', 'Location: Sarwat,Alexandria.', 'Benefits: ', 'Competitive salary ', 'insurance']
+
+location
+الاسكندرية مصر
+

@@ -1,0 +1,15 @@
+title
+GRADUATE SOFTWARE ENGINEER - Dubai, UAE
+
+company_name
+Cobblestone Energy
+
+job_description
+['Competitive remuneration, with fast progression for strong performers. ', 'A challenging but exciting, open, and fun work environment. ', 'An opportunity to work with remarkably talented colleagues. ', 'Vast growth potential in every aspect. ', '15% target bonus with further upside. ', 'Employee share scheme participation ', 'International relocation support ', 'Opportunity to be embedded within a commercial team for those with strong commercial interest ']
+
+job_requirments
+['Write software applications and programs for backend/frontend purposes. ', 'Analyse programs and apps to improve their features and functionalities. ', 'Test & debug programs and fix any reported bugs. ', 'Collaborate with the tech team to improve the performance, efficiency, and scalability of our tools. ']
+
+location
+الجيزة الجيزة مصر
+

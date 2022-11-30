@@ -1,0 +1,15 @@
+title
+QA Test Engineer
+
+company_name
+Siemens
+
+job_description
+['Sponsors quality process and procedures throughout the entire product lifecycle including inspections, code reviews, requirements, code coverage and quality improvement.', 'Set expectations for product quality, create a plan to measure the expectations, and ensure execution of the plan.', 'Accountable for the predictability of schedules and measuring progress to goals against objectives.', 'Understands the level of quality required at different phases of the product lifecycle and ensures that the product works in the customer intended environment. Works with customers, marketing, and/or Customer Support to understand customer needs and requirements.', 'Record past verification and validation efforts to ensure reproducibility of results.', 'Assesses technical capability of product, including ease of use, functionality, reliability, and serviceability.', 'Testing product for defects and limitations, and boundaries (think of all the ways that a product might not work).', 'Collaborates and coordinates as needed with global engineering and QA teams.', 'Review functional and design specifications and other project documentation. Review internal and external product and release documentation and provide appropriate input to others, e.g. KPD, third party providers, etc.', 'Coordinate efforts with SW Development and Release Team members to ensure quality software releases.']
+
+job_requirments
+['B.Sc./M.Sc. in in Electrical Engineering Electronics and Communication/Computer Engineering.', '3 to 5 years of experience in testing and test automation.', 'Good knowledge in Linux/Unix OS. , Versioning control tools (CVS, git), Bash, Python, TCL and Defect Tracking Systems.', 'Good to have DRC, Standard verification rule format (SVRF) and Calibre tools.', 'Good knowledge of IC manufacturing process and IC layout design.', 'Good Knowledge of Software Quality Assurance processes and software testing concepts is an asset.', 'Excellent communication skills and ability to work closely with product owner and R&D to understand software features and customer usage.', 'Self-Motivated engineer with good capability for continuous learning.']
+
+location
+القاهرة قسم ثان القاهرة الجديدة مصر
+

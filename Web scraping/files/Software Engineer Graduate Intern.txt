@@ -1,0 +1,15 @@
+title
+Software Engineer Graduate Intern
+
+company_name
+Dell Technologies
+
+job_description
+['Be part of a creative team that works on automation projects.', 'Participate in project lifecycle from requirements gathering and implementation to project delivery', 'Use the most efficient method or develop a method to Add, update, remove and correct Install Base data records, based on reports, cross-functional analysis, metrics, or KPIs, while complying with the operational standards and procedures.', 'Oversee keeping Install Base data up to date to match the dynamic business changes as well as physical changes that occur in Dell products possessed by any customer. ', 'Analyzes data and reporting to identify trends, systemic gaps, scoping and targeting impacted data records.', 'Trace products’ data flow in several Information systems through the product lifecycle and different information systems, deducing comparative analysis between large data sets.', 'Proactively explore opportunities of continuous improvements for the data quality through identifying data errors; investigating to determine root causes and proposing solutions (data cleanup projects, system enhancements, automation…).', "Contributes to the development of the organization's goals and objectives. ", 'Frequent inter-organizational and outside customer contacts. ', 'Collaboration across multiple business units for business initiatives. ', 'Represents the organization on projects and may perform in a project leadership role and/or may supervise the activities of lower-level personnel (exempt professional and non-exempt).', 'Works under limited direction. Determines and develops an approach to solutions. ', 'Work on several information systems (Oracle, SAP, Salesforce…) and use a variety of tools including complex searches and queries and running macros and scripts.']
+
+job_requirments
+['Fresh Graduates/ Master’s Student', 'Systems thinking and understanding workflows.', 'Analytical thinking, Innovative.', 'Communication skills (spoken and written fluency).', 'Database querying across multiple databases (SQL or similar).', 'Robotics Process Automation, macros, front-end automation scripting,', 'programming languages (Java, C++, Python, Go or JavaScript….)', 'Critical eye for Systems testing (User Acceptance Testing)', 'Knowledge of user interface design and prototyping', 'Knowledge of object-oriented programming, Microservices, REST API design, React, and databases', 'Good knowledge of container technologies and Kubernetes', 'Good knowledge in scheduling and cost sizing for software development projects of medium complexity', 'Knowledge of CI/CD']
+
+location
+القاهرة القاهرة مصر
+

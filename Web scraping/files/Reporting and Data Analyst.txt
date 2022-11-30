@@ -1,0 +1,15 @@
+title
+Reporting and Data Analyst
+
+company_name
+Property Finder
+
+job_description
+['The ideal candidate will use their passion for data and analytics to provide insights into the business covering various topics. ', 'The Reporting and Data Analyst will conduct both recurring and ad hoc analyses from multiple data sources in response to Customer Experience teams’ requests. ', 'Also will develop daily, weekly, and monthly reports supporting the functions and needs of the Customer Experience department. ']
+
+job_requirments
+['Graduated from Computer Science or Engineering ', 'Entry level with a minimum 1 year of experience', 'Mathematical background - numeracy skills. ', 'Problem-solving mindset. ', 'Hands-on experience with MS Excel & G-Suite. ', 'Good Understanding of reporting & data visualization. ', 'Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy. ', 'Comfort working in systems and learning new tools such as Zendesk, and SalesForce.']
+
+location
+مصر
+

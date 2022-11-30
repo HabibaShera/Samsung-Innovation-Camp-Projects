@@ -1,0 +1,15 @@
+title
+Software QA Engineer - (Remote Job)
+
+company_name
+TIS (Tech for Integrated Services)
+
+job_description
+['Responsible to execute manual and automated functional, performance, and security testing for websites and mobile applications. ', 'Devise test scenarios and document the test cases in a test management tool', 'Identify, prioritize and execute test cases in the various stages of the software development life cycle', 'Implement and execute quality assurance best practices and processes Product Testing', 'Set us and conduct thorough product testing with high-quality standards', 'Create and modify cases based on functional and non-functional requirements or existing functionality of the systems', 'Evaluate and test new or modified software to determine that software meets user requirements, documented business needs, and established quality standards', 'Apply various testing types and methodologies effectively during SDLC', 'Execute the test cases and log the test results', 'Participates in agile estimation taking into consideration project and process requirements during the development lifecycle.']
+
+job_requirments
+['3 - 4 years of experience in software testing.', 'Experience with Mobile and web testing.', 'Experience of API testing.', 'Strong hands-on experience with complex database schema and SQL queries.', 'Knowledge of Firebug, JMeter and Fiddler is a plus.', 'Knowledge of web and mobile Automation testing (Selenium, Appium, etc.)', 'Problem-solving skills.', 'Strong communication skills and ability to work in a dynamic environment.', 'Solid understanding of software development life cycle']
+
+location
+القاهرة القاهرة مصر
+

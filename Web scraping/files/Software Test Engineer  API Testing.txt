@@ -1,0 +1,15 @@
+title
+Software Test Engineer | API Testing
+
+company_name
+Expleo Group
+
+job_description
+['Works on multiple phases of a project and/or multiple small projects of moderate scope and sometimes complex assignments. ', ' Takes responsibility for a certain area and conditions as well as results evaluation, problem resolution and planning. ', ' Selects appropriate standards, methods, tools and applications for project use. ', ' Applies data analysis and data modelling techniques to modify or maintain a data structure and its associated components (entity descriptions, relationship descriptions, attribute definitions). ', ' Creates and executes basic non-functional test scripts following a given set of guidelines and sets up test environments, data and monitors. ', ' Designs, codes, tests and documents simple programs or scripts and assists in the implementation of software which forms part of a properly engineered system. ', ' Co-ordinates the information gathering and reporting process, conducting research to define problems and preparing responses to anticipated questions. ', ' Accurately identifies project risks and reports effectively to relevant stakeholders. Manages issues, risks, actions, dependencies, and defects to the success of the project. ', ' Creates traceability records, from test cases back to requirements. Can report on system quality and collects metrics on test cases. ', ' Produces test scripts, materials and regression test packs to test new and amended software or services. ', ' Maintains the status of project and provides guidance to the work of junior team members, works across teams to achieve group goals. ']
+
+job_requirments
+[' Bachelor’s Degree in Computer Science, Information Systems, or other related field, or equivalent work experience ', ' Excellent/Fluent Command in written and spoken English language ', ' Experience 1 - 3 years in API testing ', ' ISTQB Foundation ', ' Additional course or certification in Quality Engineering (Preferred) ']
+
+location
+القاهرة القاهرة مصر
+

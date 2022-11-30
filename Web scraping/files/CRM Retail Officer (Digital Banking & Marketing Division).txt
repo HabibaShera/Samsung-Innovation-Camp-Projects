@@ -1,0 +1,15 @@
+title
+CRM Retail Officer (Digital Banking & Marketing Division)
+
+company_name
+ALEXBANK
+
+job_description
+['Interpreting data, analyzing large multi-dimensional datasets, identifying actionable insights and recommendations using statistical techniques (SAS, SQL, and other tools) ', 'Creating static and dynamic dashboards using Microsoft Excel and real-time dashboards using Microsoft Power BI.', 'Managing all related MISs reporting concerned CRM & Digital channels in the form of reports delivered on a regular basis to the business team for tracking the overall applications performance', 'Analyzing Digital Database to generate insights concerned with the channels performance across the specified KPIs as well as reporting the branches’ performance on a regular basis.', 'Campaign management through targeting relevant customers to x-selling, up-selling as well as relational campaigns to ensure all customers are offered relevant products & services.', 'Managing local CRM application through Portfolio & Campaign management as well as applying all the relevant upgrades and integrations for better customer targeting and thus, a better customer experience.', 'Carrying out all relevant testing scenarios (on the application as well as on the database level), in case of an upgraded local CRM version or an integration with any of the banks’ channels (e.g. Digital channels, Website, ATMs, etc.)', 'Measuring, reporting the performance of all digital marketing campaigns (SMS, E-Mail Marketing, Social Media, and Google Ads), and assess against goals (ROI and KPIs)', 'Designing, implementing & evaluating new techniques and models of data science - data mining, statistical analysis, machine learning and predictive analytics techniques to help business.']
+
+job_requirments
+['Bachelor degree in Computer science, economics and statistics, engineering, business administration, or a related discipline', '1-3 years previous experience working as a data analyst', 'Advanced Microsoft Excel skills is mandatory.', 'Knowledge of programming languages like SQL, Oracle, and Python.', 'Technical proficiency regarding database design development, data models, techniques for data mining, and segmentation.', 'Proficiency in statistics and statistical packages like Excel, SAS, and python.', 'Strong analytical skills with attention to details', 'Good verbal and written communication skills']
+
+location
+القاهرة مصر
+

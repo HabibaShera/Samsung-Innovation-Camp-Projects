@@ -1,0 +1,15 @@
+title
+Data & BI Analyst
+
+company_name
+Klivvr
+
+job_description
+['We put our visionaries first. ', 'We strive for innovation. ', 'We write in pencil. ', 'We leave our titles at the door. ', 'We don’t follow suit. Or wear one. ', 'We see tomorrow and build today. ']
+
+job_requirments
+['Identifying data sources', 'Analyzing data, identifying trends, designing key metrics for communicating actionable insights proactively.', 'Precisely collect data inquires and requirements from stakeholders.', 'Processing confidential data and information according to guidelines.', 'Supporting the data warehouse in identifying and revising reporting requirements.', 'Assessing quality of data, optimizing queries, and removing or cleaning data.', 'Developing dashboards and reports for executive teams along with promoting data literacy across the company. ', 'Sourcing missing data, distinguish areas of inefficiencies, conduct root cause analyses']
+
+location
+القاهرة قسم الزمالك مصر
+

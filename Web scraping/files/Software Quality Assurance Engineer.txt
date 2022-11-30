@@ -1,0 +1,15 @@
+title
+Software Quality Assurance Engineer
+
+company_name
+Reliance Health
+
+job_description
+["Analyzing users' stories and/use cases/requirements for validity and feasibility", 'Collaborate closely with other team members and departments', 'Execute all levels of testing (System, Integration, and Regression)', 'Design and develop automation scripts when needed', 'Detect and track software defects and inconsistencies', 'Provide timely solutions', 'Apply quality engineering principles throughout the Agile product lifecycle', 'Provide support and documentation']
+
+job_requirments
+['Minimum 5 years of experience as a Software Tester or similar role', 'Ability to handle multiple tasks simultaneously', 'Experience in Automated testing is nice to have', 'Ability to work in a fast-paced environment with minimal supervision', 'Sense of ownership and pride in your performance and its impact on the company’s success', 'Critical thinker and problem-solving skills', 'Good time-management skills', 'Great interpersonal and communication skills', 'Experience working on a 100% remote team', 'Experience with Spring boot microservices']
+
+location
+القاهرة القاهرة مصر
+

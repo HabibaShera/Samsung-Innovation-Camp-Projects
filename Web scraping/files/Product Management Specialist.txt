@@ -1,0 +1,15 @@
+title
+Product Management Specialist
+
+company_name
+Beko Global
+
+job_description
+['Conducting market research to find answers about consumer requirements, habits and trends', 'Brainstorm and develop ideas for creative marketing campaigns and product development plans ', 'Assist in outbound or inbound marketing activities by demonstrating expertise in various areas (content development and optimization, advertising, events planning etc.)', 'Coordinate with other departments to ensure product flow and proper product management as well as proper campaign execution', 'Collaborate with marketing and other professionals to coordinate product development, product positioning, segmentation , pricing, product P&L and marketing efforts', 'Plan and execute initiatives to reach the target audience through appropriate product management and product mix ', 'Assist in analyzing marketing data (campaign results, conversion rates, traffic etc.) to help shape future marketing strategies', 'Undertake individual tasks of a marketing plan as assigned.', 'responsible for executing effective marketing strategies', 'assist with campaign development, analysing the effectiveness of each campaign', 'Work closely with the sales team on program development and implementation', 'Ensure creative marketing materials undergo regular review and adhere to brand guidelines', 'Develop and communicate product Mix plans, campaign results and project recommendations to senior management team.', 'Responsible for product Knowledge and communicate to sales and other departments ']
+
+job_requirments
+['Proven experience as marketing specialist or similar role', 'Thorough understanding of marketing elements (including traditional and digital marketing such as SEO/Social media etc.) and market research methods', 'Demonstrable experience in marketing data analytics and tools.', 'Solid computer skills, including MS Office, Excel & Power point. ', 'Well-organized and detail oriented', 'Excellent communication and writing skills', 'Excellent analytical, communication and presentation skills', 'Commercial awareness partnered with a creative mind', 'Bachelor’s Degree in Marketing, Advertising or related discipline', '3+ years’ experience in a marketing role', 'Ability to work well in a fast-paced, collaborative environment']
+
+location
+القاهرة القاهرة الجديدة مصر
+
